@@ -1,7 +1,7 @@
 
 Shopify Apps * - *
 =====
-![Alt text](imgs/imgShopify.jpeg?raw=true "Title")
+![Alt text](imgs/devsAreGods.jpg?raw=true "Title")
 ## Welcome to my Shopify App practice and study :)
 
 !!! Requirements !!!
