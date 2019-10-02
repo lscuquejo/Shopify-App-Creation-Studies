@@ -37,6 +37,7 @@ ngrok http 3000
 Create skeleton
 ```
 composer create-project symfony/skeleton appName
+cd appName
 ```
 
 4 - Add the Shopify API key and Shopify API secret key
@@ -44,3 +45,4 @@ composer create-project symfony/skeleton appName
 
 - Follow the steps from the third part from this [page](https://developers.shopify.com/tutorials/build-a-shopify-app-with-node-and-react/embed-your-app-in-shopify)
 
+5 - Install and prepare oAuth symfony
